@@ -1,0 +1,121 @@
+/*
+##########################################################
+# 						BODY							 #
+##########################################################
+*/
+
+body {
+	font-family: arial, sans-ms;
+	color: #3D2344;
+	background-color: lightblue;
+}
+
+main {
+	
+	
+}
+
+a {
+	text-decoration: none;
+
+}
+
+
+
+
+
+/*
+##########################################################
+# 						HEADER							 #
+##########################################################
+*/
+
+header {
+	max-width: 740px;
+	margin: auto;
+	border: solid black 5px;
+}
+
+header div {
+	background-image: url(images/background.jpg);
+	height: 150px;
+	margin-top:0 ;
+}
+
+header h1 {
+	font-size: 2em;
+	color: white;
+	text-align: center;
+	margin-top: 0;
+	padding-top: 50px;
+}
+
+header nav {
+	background-color: blue;
+	height: auto;
+	padding: 10px;
+
+}
+	
+
+header nav ul {
+    list-style-type: none;
+
+}
+
+header nav li {
+	display: inline-block;
+	margin-right: 50px;
+	padding: 5px;
+}
+
+header nav li:hover {
+	background-color: cadetblue;
+}
+
+header nav a {
+	color: white;
+	font-size: 1.3em;
+}
+
+#primary a{
+	 maroon;
+}
+
+
+
+/*
+##########################################################
+# 						ASIDE - NAV						 #
+##########################################################
+*/
+
+
+
+
+
+/*
+##########################################################
+# 						MAIN							 #
+##########################################################
+*/
+
+
+
+
+
+
+
+/*
+##########################################################
+# 						FOOTER							 #
+##########################################################
+*/
+
+
+
+
+
+
+
+
